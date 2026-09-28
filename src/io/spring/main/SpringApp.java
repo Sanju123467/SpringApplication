@@ -4,7 +4,7 @@ public class SpringApp {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("This is my Java Project");
+		System.out.println("This is my first Java Project in Github");
 	}
 
 }
